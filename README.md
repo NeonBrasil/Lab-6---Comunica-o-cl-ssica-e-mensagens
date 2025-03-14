@@ -10,6 +10,13 @@ Este repositório contém exemplos simples para demonstrar conceitos básicos de
 
 ### Hello World
 
+Antes de tudo você pode instalar o OpenMPI com estes comandos:
+
+```
+sudo apt update
+sudo apt install openmpi-bin openmpi-doc libopenmpi-dev
+```
+
 Este programa demonstra a inicialização básica do OpenMPI e exibe informações sobre o processo em execução.
 
 ```c
